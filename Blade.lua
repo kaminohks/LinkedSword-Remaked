@@ -1,4 +1,4 @@
---Rescripted by Luckymaxer
+--Rescripted by kaminoart
 
 Tool = script.Parent
 Handle = Tool:WaitForChild("Handle")
